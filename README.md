@@ -8,7 +8,6 @@ Our handbook is organized into several sections, each covering an essential aspe
 - [Company](https://github.com/insolite-dev/handbook/blob/main/company.md): Details about our company's mission, vision, and values, as well as information about our organizational structure and policies.
 - [Engineering](https://github.com/insolite-dev/handbook/blob/main/engineering.md): Information about our development process, coding standards, and technology stack.
 - [Onboarding](https://github.com/insolite-dev/handbook/blob/main/onboarding.md): An overview of how we welcome new team members and help them get up to speed quickly.
-Contributions
 
 ## Contributions
 We value contributions from everyone in our projects, and we encourage you to get involved! If you want to contribute to a specific project or library, please refer to its contribution guidelines.
